@@ -15,6 +15,4 @@ esto va antes del cambios
 esto lo cambie
 esto va despues del cambios
 
-esto va antes del cambios
-esto lo cambie
-esto va despues del cambios
+quite tres lineas y puse esto, su vida y "obra maestra"
